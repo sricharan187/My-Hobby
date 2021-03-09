@@ -14,7 +14,7 @@ body {
 #intro {
     position: absolute;
     overflow: hidden;
-    height: 400px;
+    height: 500px;
     color: red;
     left: 0;
     right: 0;
@@ -44,7 +44,8 @@ h1 {
 }
 
 #about {
-    padding-top: 15px;
+    margin-top: 25;
+    padding-top: 25px;
     padding-bottom: 15px;
     font-size: 40px;
     background: linear-gradient(#4287f5 0%, #da42f5 100%);
